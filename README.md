@@ -12,7 +12,7 @@ At Stark & Wayne we started this tutorial as we were learning Concourse in early
 
 Thanks to everyone who has worked through this tutorial and found it useful. I love learning that you're enjoying the tutorial and enjoying Concourse.
 
-Thanks for all the pull requests to help fix regressions with some Concourse versions that came out with "backwards incompatible change".
+Thanks for all the pull requests to help fix regressions with some Concourse versions that came out with "backwards incompatible change"..
 
 ## Getting Started
 
